@@ -2,7 +2,7 @@
 A guide how to create fb app for developer
 
 <h2>STEP 1</h2>
-Access Facebook Developer Page: https://developers.facebook.com/
+Access Facebook Developer Page: https://developers.facebook.com/<br/>
 Sign in
 <h2>STEP 2</h2>
 Create New Application
