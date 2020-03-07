@@ -22,7 +22,7 @@ Enter your package name and default Activity class name
 <img src='https://github.com/uit2712/CreateFBAppForDeveloper/blob/master/Images/8.png' width='700'/>
 <img src='https://github.com/uit2712/CreateFBAppForDeveloper/blob/master/Images/9.png' width='700'/>
 <h2>STEP 6</h2>
-Generate release key hash: https://github.com/uit2712/GenerateReleaseHashAndroid
+Generate release key hash: https://github.com/uit2712/GenerateReleaseHashAndroid<br/>
 Enter key hash
 <img src='https://github.com/uit2712/CreateFBAppForDeveloper/blob/master/Images/16.png' width='700'/>
 <img src='https://github.com/uit2712/CreateFBAppForDeveloper/blob/master/Images/17.png' width='700'/>
